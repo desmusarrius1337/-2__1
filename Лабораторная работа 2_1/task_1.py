@@ -3,7 +3,7 @@ import doctest
 class Flat:
     def __init__(self, room_number: int, area: float):
         """
-        Создание и подготовка к работе объекта "Стул"
+        Создание и подготовка к работе объекта "Квартира"
 
         :param room_number: количество комнат в квартире
         :param area: площадь квартиры
